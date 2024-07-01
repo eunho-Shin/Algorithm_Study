@@ -3,12 +3,10 @@
 - MSA기반 Full Stack 개발 전문가 양성과정 6기 1팀
 ---  
 # 0️⃣ 1팀 멤버
-
-[신은호](https://github.com/eunho-Shin) 
-[이수민](https://github.com/vsuminv)
-[최태형](https://github.com/ChoiTHs)
-[송주희](https://github.com/songzuhee)
----
+|                                팀장                                 |                                팀원                                |                                팀원                                 |                                팀원                                 |
+| :---------------------------------------------------------------: | :--------------------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/99324054?v=4"> | <img src="https://avatars.githubusercontent.com/u/81737413?v=4"> | <img src="https://avatars.githubusercontent.com/u/90806422?v=4"> | <img src ="https://avatars.githubusercontent.com/u/80883709?v=4" width = "350" height ="230"> |
+|                   [신은호](https://github.com/eunho-Shin)                    |            [이수민](https://github.com/vsuminv)             |                [최태형](https://github.com/ChoiTHs)                |                  [송주희](https://github.com/songzuhee)                   |
 # 1️⃣ 진행 방법
 ---
 1. 주말을 제외한 1일 1문제 풀고 제출하기.
@@ -22,4 +20,4 @@
 | 일차  | 출처  | 제목                                                                              | 난이도 | 풀이                                                               |
 | --- | --- | ------------------------------------------------------------------------------- | --- | --------------------------------------------------------------------- |
 | 17일차 | B   | [피보나치](https://www.acmicpc.net/problem/2748)       | 0   | [0628](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0628_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98) |
-| 18일차 | B   | [구간 합 4 구하기](https://www.acmicpc.net/problem/11659) | Silver3 | [0701](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0701_%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%204) |
+| 18일차 | B   | [구간 합 구하기4](https://www.acmicpc.net/problem/11659) |<img src ="https://user-images.githubusercontent.com/70877497/136756801-63b3ce6a-5399-4898-9099-03349887e672.png">  | [0701](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0701_%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%204) |
