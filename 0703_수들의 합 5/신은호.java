@@ -8,7 +8,8 @@ public class Main {
 		int cnt = 0;
 
 		for (int i = 1; i <= N; i++) {
-			double b = (-1.0 + Math.sqrt(1.0 + 4.0 * ((double) i * (double) i - (double) i + 2.0 * (double) N))) / 2.0;
+			double b = (-1.0 + Math.sqrt(1.0 + 4.0 * 
+				((double) i * (double) i - (double) i + 2.0 * (double) N))) / 2.0;
 
 			if (b % 1 == 0.0) {
 				cnt++;
