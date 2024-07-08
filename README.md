@@ -25,5 +25,5 @@
 | 20일차 | B   | [수들의 합 5](https://www.acmicpc.net/problem/2018) | <img src = "https://user-images.githubusercontent.com/70877497/136755512-34dbd4c1-4297-4288-a1e1-3673b96f1232.png"> | [0703](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0703_%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%205)|
 | 21일차 | B   | [소인수분해](https://www.acmicpc.net/problem/11653) |<img src = "https://user-images.githubusercontent.com/70877497/136754951-d56e8844-8984-423f-85d1-d6e7e05da8fc.png"> | [0704](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0704_%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)|
 | 22일차 | B   | [줄 세우기](https://www.acmicpc.net/problem/1681) | ? | [0704](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0705_%EC%A4%84%20%EC%84%B8%EC%9A%B0%EA%B8%B0)|
-| 23일차 | B   | [최소공배수](https://www.acmicpc.net/problem/1934) | ? | [0704](https://github.com/eunho-Shin/Algorithm_Study/blob/main/0708_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/README.md)|
+| 23일차 | B   | [최소공배수](https://www.acmicpc.net/problem/1934) | ? | [0708](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0708_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)|
 
