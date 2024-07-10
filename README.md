@@ -27,3 +27,4 @@
 | 22일차 | B   | [줄 세우기](https://www.acmicpc.net/problem/1681) | ? | [0704](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0705_%EC%A4%84%20%EC%84%B8%EC%9A%B0%EA%B8%B0)|
 | 23일차 | B   | [최소공배수](https://www.acmicpc.net/problem/1934) | ? | [0708](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0708_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)|
 | 24일차 | B   | [더하기 사이클](https://www.acmicpc.net/problem/1110)| ? | [0709](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0709_%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4)|
+| 25일차 | B   | [369](https://www.acmicpc.net/problem/17614)| ? | [0710](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0710_369)|
