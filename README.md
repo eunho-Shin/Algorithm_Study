@@ -29,3 +29,4 @@
 | 24일차 | B   | [더하기 사이클](https://www.acmicpc.net/problem/1110)| ? | [0709](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0709_%EB%8D%94%ED%95%98%EA%B8%B0%20%EC%82%AC%EC%9D%B4%ED%81%B4)|
 | 25일차 | B   | [369](https://www.acmicpc.net/problem/17614)| ? | [0710](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0710_369)|
 | 26일차 | B   | [ATM](https://www.acmicpc.net/problem/11399)| ? | [0711](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0711_ATM)|
+| 27일차 | P   | [큰 수 만들](https://school.programmers.co.kr/learn/courses/30/lessons/42883)| ? | [0712](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0712_%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|
