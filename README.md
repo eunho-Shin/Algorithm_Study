@@ -30,3 +30,4 @@
 | 25일차 | B   | [369](https://www.acmicpc.net/problem/17614)| ? | [0710](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0710_369)|
 | 26일차 | B   | [ATM](https://www.acmicpc.net/problem/11399)| ? | [0711](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0711_ATM)|
 | 27일차 | P   | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)| ? | [0712](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0712_%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)|
+| 28일차 | B   | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)| ? | [0715](https://github.com/eunho-Shin/Algorithm_Study/tree/main/0715_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)|
